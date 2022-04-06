@@ -10,3 +10,6 @@
 
 <p>Pipe Array</p>
 <img src = "https://github.com/Alfinnnnn/Multi-Process/blob/main/ss/pipe_array.png">
+
+<p>Memorymap Array</p>
+<img src = "">

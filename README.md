@@ -1,5 +1,9 @@
 # Multi-Process
 
 <p> Berikut tampilan jika program di running</p>
-<p> Memorymap Statik </p>
+
+<p>Pipe Static</p>
+<img src = "https://github.com/Alfinnnnn/Multi-Process/blob/main/ss/pipe_static.png">
+
+<p> Memorymap Stati </p>
 <img src = "https://github.com/Alfinnnnn/Multi-Process/blob/main/ss/memorymap_static.png">

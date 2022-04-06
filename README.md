@@ -8,7 +8,7 @@ Anggota: <br>
 <p>Raden Fadhil Anugerah Ardiwilaga (2004305)
 <p>Arik Rizki AKbar (2007392)
 
-<p> Berikut tampilan jika program di running</p>
+## Berikut tampilan jika program di running
 
 <p>Pipe Static</p>
 <img src = "https://github.com/Alfinnnnn/Multi-Process/blob/main/ss/pipe_static.png">

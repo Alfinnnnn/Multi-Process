@@ -7,3 +7,6 @@
 
 <p> Memorymap Static </p>
 <img src = "https://github.com/Alfinnnnn/Multi-Process/blob/main/ss/memorymap_static.png">
+
+<p>Pipe Array</p>
+<img src = "https://github.com/Alfinnnnn/Multi-Process/blob/main/ss/pipe_array.png">

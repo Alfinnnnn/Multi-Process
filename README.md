@@ -1,5 +1,13 @@
 # Multi-Process
 
+#### Kelompok 3 - Ilkom C1 '2020
+Anggota: <br>
+Muhammad Aditya Hasta Pratama (2000360)
+Surya Alfin Maoludin (2001521)
+Muhammad Rafi Shidiq (2004222)
+Raden Fadhil Anugerah Ardiwilaga (2004305)
+Arik Rizki AKbar (2007392)
+
 <p> Berikut tampilan jika program di running</p>
 
 <p>Pipe Static</p>
@@ -12,4 +20,4 @@
 <img src = "https://github.com/Alfinnnnn/Multi-Process/blob/main/ss/pipe_array.png">
 
 <p>Memorymap Array</p>
-<img src = "">
+<img src = "https://github.com/Alfinnnnn/Multi-Process/blob/main/ss/memorymap_Array.png">

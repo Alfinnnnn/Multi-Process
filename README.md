@@ -17,7 +17,9 @@ Anggota: <br>
 <img src = "https://github.com/Alfinnnnn/Multi-Process/blob/main/ss/memorymap_Array.png">
 
 
-#Revisi
+## Revisi
 <p>Pipe Rev</p>
 <img src ="https://github.com/Alfinnnnn/Multi-Process/blob/main/ss/pipe_rev.png">
 
+<p>Memorymap Rev</p>
+<img src = "https://github.com/Alfinnnnn/Multi-Process/blob/main/ss/memorymap_rev.png">

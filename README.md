@@ -8,7 +8,7 @@ Anggota: <br>
 <p>Raden Fadhil Anugerah Ardiwilaga (2004305)
 <p>Arik Rizki AKbar (2007392)
 
-## Berikut tampilan jika program di running
+## Berikut tampilan jika program di running (Revisi)
 
 <p>Pipe Array</p>
 <img src = "https://github.com/Alfinnnnn/Multi-Process/blob/main/ss/pipe_array.png">
